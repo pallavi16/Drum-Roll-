@@ -1,0 +1,71 @@
+body{
+    background-color: #2F4F4F;
+   
+}
+
+.container{
+    margin: auto;
+    text-align: center;
+}
+
+.subcontainer{
+    width: 100%;
+    
+
+}
+h1{
+    color: azure;
+    text-shadow: 2px 2px magenta ;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 90px;
+}
+
+img{
+    width: 10%;
+ display: inline-block;
+ margin-bottom: -35px;
+}
+
+
+.row{
+    width: 100%;
+    
+}
+.col1{
+    display: inline-block;
+    padding: 48px;
+    padding-bottom: 5px;
+    font-size: 55px;
+    margin: 20px;
+    background-color: #fff;
+    border: 7px lightseagreen solid;
+    border-radius: 8px;
+    text-align: end;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    color: black;
+    background-image: "images/crash.png";
+}
+
+ #img1{
+background-image: url("images/tom1.png");
+}
+#img2{
+    background-image: url("images/tom2.png");
+}
+#img3{
+    background-image: url("images/tom3.png");
+}
+#img4{
+    background-image: url("images/tom4.png");
+}
+#img5{
+    background-image: url("images/snare.png");
+}
+#img6{
+    background-image: url("images/crash.png");
+}
+#img7{
+    background-image: url("images/kick.png");
+}
